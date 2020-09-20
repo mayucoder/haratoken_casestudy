@@ -2,6 +2,17 @@
 
 <div style="text-align:center"><img src="https://icodrops.com/wp-content/uploads/2018/11/Hara-Logo.jpg" /></div>
 
+## TABLE OF CONTENTS
+         * [THE FATE OF FARMING](#the-fate-of-farming)
+         * [NEW AGRICULTURAL REVOLUTION](#new-agricultural-revolution)
+         * [A GLOBAL &amp; TRANSPARENT BLOCKCHAIN-BASED DATA EXCHANGE FOR FARMERS](#a-global--transparent-blockchain-based-data-exchange-for-farmers)
+         * [COMPANY BACKGROUND](#company-background)
+         * [HARA REVENUE MODEL](#hara-revenue-model)
+         * [HARA ECOSYSTEM](#hara-ecosystem)
+         * [ROADMAP-GETTING READY TO TAKEOFF](#roadmap-getting-ready-to-takeoff)
+         * [RECOMENDATIONS](#recomendations)
+
+
 <div style="page-break-after: always"></div> 
 
 <p> </p>
