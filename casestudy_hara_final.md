@@ -2,21 +2,22 @@
 
 <div style="text-align:center"><img src="https://icodrops.com/wp-content/uploads/2018/11/Hara-Logo.jpg" /></div>
 
-## TABLE OF CONTENTS
-         * [THE FATE OF FARMING](#the-fate-of-farming)
-         * [NEW AGRICULTURAL REVOLUTION](#new-agricultural-revolution)
-         * [A GLOBAL &amp; TRANSPARENT BLOCKCHAIN-BASED DATA EXCHANGE FOR FARMERS](#a-global--transparent-blockchain-based-data-exchange-for-farmers)
-         * [COMPANY BACKGROUND](#company-background)
-         * [HARA REVENUE MODEL](#hara-revenue-model)
-         * [HARA ECOSYSTEM](#hara-ecosystem)
-         * [ROADMAP-GETTING READY TO TAKEOFF](#roadmap-getting-ready-to-takeoff)
-         * [RECOMENDATIONS](#recomendations)
-
+* [<strong> TABLE OF CONTENTS </strong>](#table-of-contents)
+    * [THE FATE OF FARMING](#the-fate-of-farming)
+    * [NEW AGRICULTURAL REVOLUTION](#new-agricultural-revolution)
+    * [A GLOBAL &amp; TRANSPARENT BLOCKCHAIN-BASED DATA EXCHANGE FOR FARMERS](#a-global--transparent-blockchain-based-data-exchange-for-farmers)
+    * [COMPANY BACKGROUND](#company-background)
+    * [HARA REVENUE MODEL](#hara-revenue-model)
+    * [HARA ECOSYSTEM](#hara-ecosystem)
+    * [ROADMAP-ACHEIVEMENTS & FUTURE PLANS](#roadmap-ACHEIVEMENTS-&-FUTURE-PLANS)
+    * [RECOMENDATIONS](#recomendations)
 
 <div style="page-break-after: always"></div> 
 
 <p> </p>
-</div>
+
+
+
 
 ### THE FATE OF FARMING
 The agricultural industry helped humans to build communities,then villages, then cities, then empires and then led us to where we are now. It supports the global economy and a population of 7.4 billion. Somewhere between 68% and 80% of the world's food production comes from small and micro holder farms, the majority of which are in developing nations where money typically has a tough time making it to the farmers. We would starve without them and yet  we take for granted the food we eat often and not even think about where it's from. But we all enjoy food and hope to taste, relish as many varieties as possible from around the world. But in that plate of food lies the engine of the world’s food supply.
@@ -72,7 +73,7 @@ There are four stakeholders:
 
 >   Oraclize is a data carrier for decentralized apps. As data carrier, it provides a reliable connection between Web APIs and HARA’s App using enforced cryptographic proofs. It eliminates the need to open additional trust lines. 
 
-### ROADMAP-GETTING READY TO TAKEOFF
+### ROADMAP-ACHEIVEMENTS & FUTURE PLANS
  
 It is inspiring to see more entrepreneurs using technology who look beyond profit, to the impact that they can have on people and the world around them. Reaching all of those farmers, their family, field agents, shopkeepers and the financial institutions is where the opportunity lies.HARA combines a strong technical knowledge and a passion for making a difference. When visionary thinkers understand their people, their problems and technology the potential for solutions becomes endless. It is just the type of thinking we need today.
 
