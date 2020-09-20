@@ -65,7 +65,7 @@ There are four stakeholders:
  
 It is inspiring to see more entrepreneurs using technology who look beyond profit, to the impact that they can have on people and the world around them. Reaching all of those farmers, their family, field agents, shopkeepers and the financial institutions is where the opportunity lies.HARA combines a strong technical knowledge and a passion for making a difference. When visionary thinkers understand their people, their problems and technology the potential for solutions becomes endless. It is just the type of thinking we need today.
 
-<div style="text-align:center"><img src="https://miro.medium.com/max/700/1*56tvWQ2X8typGNlRU-K0Tw.jpeg "/></div>
+<div style="text-align:center"><img src="https://miro.medium.com/max/700/1*56tvWQ2X8typGNlRU-K0Tw.jpeg"/></div>
 
 HARA is looking into how blockchain can make the world a better place. As a blockchain for social impact project, one of the main reasons HARA uses blockchain is specifically to benefit the people on the bottom of the pyramid.Currently, they are already in the process of originating another 1,250 farmers with a total value of USD 154,000 and eventually will be able to gain access to fair banking services which they can afford to repay, have crop insurance against vulnerability such as floods or droughts, and have fairer negotiating a position with the off-takers that leads to a better price for their products.
 
@@ -74,7 +74,7 @@ In 2019 HARA collaborated with Aruna to bring data visibility of Indonesia’s f
 HARA has collaborated with TerraSphere a Netherlands-based company that offers Geo-ICT (Geographic Information and Communication Technologies) solutions through satellite, UAV (Unmanned Aerial Vehicle) mapping, as well as GIS analysis.TerraSphere will add analytics services for satellite data and crop monitoring. This will bring valuable information to our stakeholders, for instance for insurance companies to automate their claim process.
 
 HARA simply creates jobs for anyone with a phone. 
-<div style="text-align:center"><img src="https://miro.medium.com/max/700/1*5CP1vNC9GF5kxZ1QkJ3AFA.jpeg "/></div>
+<div style="text-align:center"><img src="https://miro.medium.com/max/700/1*5CP1vNC9GF5kxZ1QkJ3AFA.jpeg"/></div>
 
 You don’t need to bring any capital to join up, you just need to put in the work.In the current plan, HARA aims to attract people from rural communities to become Field Agents that will help the HARA platform prosper. Anyone in a village can become a HARA Field Agent, not just farmers themselves, and can eventually earn a salary of up to $700 dollars per month.
 
